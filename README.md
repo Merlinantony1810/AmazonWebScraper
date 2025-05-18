@@ -13,37 +13,35 @@ This Jupyter notebook contains a web scraper that monitors the price of a produc
 
 
 1️⃣ **Clone the Magic 🧙‍♀:**
-shell
-git clone https://github.com/Merlinantony1810/amazon-ps5-price-tracker.git
+
+```bash
+git clone https://github.com/Merlinantony1810/AmazonWebScraper.git
 cd AmazonWebScraper
+```
 
 2️⃣ **Install Dependencies 📦:**
-shell
+
+```bash
 python -m pip install beautifulsoup4 requests pandas
 jupyter notebook
+```
 
-3️⃣ **Let the Scraping Begin 😎**:
-shell
-jupyter notebook Amazon Web Project.ipynb
+3️⃣ **Let the Scraping Begin 😎:**
 
-
-You can install the required libraries using the following command:
 ```bash
-pip install beautifulsoup4 requests pandas
+jupyter notebook Amazon Web Scraper Project.ipynb
+```
 
-How to Run
-Clone this repository (or download the files):
+## 📝 License
 
-git clone https://github.com/yourusername/AmazonWebScraper.git
-cd AmazonWebScraper
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-pip install beautifulsoup4 requests pandas
-jupyter notebook
+---
 
-Run the notebook (amazon_price_tracker.ipynb):
+### MIT License
 
 
 
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
