@@ -15,8 +15,8 @@ This Jupyter notebook contains a web scraper that monitors the price of a produc
 1️⃣ **Clone the Magic 🧙‍♀:**
 
 ```bash
-git clone https://github.com/Merlinantony1810/AmazonWebScraper.git
-cd AmazonWebScraper
+git clone https://github.com/Merlinantony1810/amazon-ps5-price-tracker.git
+cd amazon-ps5-price-tracker
 ```
 
 2️⃣ **Install Dependencies 📦:**
